@@ -1,0 +1,53 @@
+h1 {
+    color: #27aedb;
+    text-align: center;
+    }
+body {
+    background-color: #20629b;
+}
+
+button{
+   background-color: #9b6620;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+}
+
+.bg-pink{
+	background-color:pink;
+}
+
+.logForm {
+    max-width: 450px;
+    padding: 20px;
+    height: 100%;
+    margin: auto;
+}
+
+.servicesShow {
+    margin-left: 10px;
+}
+.login-signup {
+    margin-top: 50px;
+}
+.error-msg {
+    max-width: 450px;
+    margin-bottom: 20px;
+}
+.centre {
+    display: flex;
+   
+}
+#mainlist {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+    max-width: 500px;
+    margin: auto;
+}
+
+.list-render {
+    margin: 10px;
+}
