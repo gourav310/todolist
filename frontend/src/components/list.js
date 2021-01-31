@@ -24,7 +24,7 @@ export default class List extends React.Component {
         this.props.editHandler(this.props.idx, this.state.editTask)
         this.setState({
             editMode: false,
-            editTask: this.props.items
+//             editTask: this.props.items
         })
     }
     render() {
